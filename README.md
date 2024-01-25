@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhappysomm&show_icons=true&theme=radical)
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <p align="center">
-✨ 어둠에 빛되고 배워서 남주자 🎀
+✨ 어둠에 빛 되고 배워서 남 주자 🎀
 </p>
 :mailbox_with_mail: bhappysomm 
 <a href="mailto:sominbhappy@gmail.com">
