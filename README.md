@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=120&section=header&text=Hi%20there&fontSize=70&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Hi%20there&fontSize=100&animation=twinkling" />
 
 <!--
 **bhappysomm/bhappysomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
